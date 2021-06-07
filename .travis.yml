@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: espacio-de-estudio:Lt1swDIOAyUy8FANO4RM7HQh
   email:
     recipients:
     - julianandres.perez.30@gmail.com
