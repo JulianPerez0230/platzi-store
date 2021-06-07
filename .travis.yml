@@ -11,7 +11,7 @@ script:
   - yarn build
 notifications:
   email:
-    reciepients:
+    recipients:
     - julianandres.perez.30@gmail.com
     on_success: always
     on_failure: always
